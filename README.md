@@ -1,0 +1,1 @@
+Sample QR code generator and reader using cv2 and qrcode
